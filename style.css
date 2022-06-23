@@ -1,0 +1,59 @@
+table {
+    margin: auto;
+}
+
+.td1 {
+    background-color: purple;
+}
+
+.td2 {
+    background-color: red;
+}
+
+.td3 {
+    background-color: teal;
+}
+
+.td4 {
+    background-color: hotpink;
+}
+
+.td5 {
+    background-color: brown;
+}
+
+.td6 {
+    background-color: green;
+}
+
+.td7 {
+    background-color: yellow;
+}
+
+.td8 {
+    background-color: rgba(214, 214, 10, 0.507);
+}
+
+.td9 {
+    background-color: grey;
+}
+
+.td10 {
+    background-color: rgb(92, 6, 173);
+}
+
+.td11 {
+    background-color: rgb(255, 0, 76);
+}
+
+.td12 {
+    background-color: rgb(51, 40, 40);
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    font-style: italic;
+    text-decoration: underline;
+    color: tomato;
+}
